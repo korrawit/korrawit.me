@@ -12,22 +12,14 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Korrawit Yindeeyoungyeon',
     photo: '/photo.jpg',
-    bio: 'Developer',
+    bio: 'Golang, DevOps, Football!',
     contacts: {
       email: 'korrawit@me.com',
       facebook: '',

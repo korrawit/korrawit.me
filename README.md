@@ -2,3 +2,5 @@
 
 # korrawit.me
 Personal website
+
+Forked from [Gatsby starter lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
